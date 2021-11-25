@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Altavoz
+comment1.params=encendido\ porcentajeVolumen
+comment1.target=Altavoz(boolean,\ int)
+comment2.params=
+comment2.target=int\ getVolumenAltavoz()
+comment3.params=
+comment3.target=java.lang.String\ getMarcaAltavoz()
+comment4.params=
+comment4.target=boolean\ getAltavozEncendido()
+comment5.params=marca
+comment5.target=void\ setMarcaAltavoz(java.lang.String)
+comment6.params=volumen
+comment6.target=void\ cambiarVolumen(int)
+comment7.params=botonEncendido
+comment7.target=void\ apretarBoton(boolean)
+comment8.params=
+comment8.target=void\ imprimirDetalles()
+numComments=9
